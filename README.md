@@ -1,7 +1,7 @@
 # Hello there<img src="https://raw.githubusercontent.com/illuminanceUA/illuminanceUA/master/wave.gif" width="30px">, I'm Artem! 🦦
 
 **Get in touch:**
-[![Linkedin Badge](https://img.shields.io/badge/-artem.sereda-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artem-sereda-4651051b6/)](https://www.linkedin.com/in/artem-sereda-4651051b6/) [![Github Badge](https://img.shields.io/badge/-illuminanceUA-grey?style=flat&logo=github&logoColor=white&link=https://github.com/illuminanceUA/)](https://www.github.com/illuminanceUA/) ![Profile views](https://gpvc.arturio.dev/illuminanceUA)
+[![Linkedin Badge](https://img.shields.io/badge/-artem.sereda-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artem-sereda/)](https://www.linkedin.com/in/artem-sereda/) [![Github Badge](https://img.shields.io/badge/-illuminanceUA-grey?style=flat&logo=github&logoColor=white&link=https://github.com/illuminanceUA/)](https://www.github.com/illuminanceUA/) ![Profile views](https://gpvc.arturio.dev/illuminanceUA)
 
  
 - 🤓 I'm a future Junior PHP developer
